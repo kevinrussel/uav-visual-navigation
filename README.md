@@ -8,7 +8,7 @@ again, and flies at it, over and over.
 It works in any Gazebo world PX4 ships with (`aruco`, `baylands`, `default`,
 etc.), as long as the world name in the scripts matches the one you launch
 (see [Changing the world](#changing-the-world)).
-
+<img src="README_Images/system_image.png" alt="Demo"  height="300">
 ## How it works
 
 There are three processes. They talk to each other through Gazebo transport,
